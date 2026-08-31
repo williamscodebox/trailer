@@ -1,7 +1,6 @@
 import { BottomTabInset, MaxContentWidth, Spacing } from '@/constants/theme';
 import { useTheme } from '@/hooks/use-theme';
-import { Platform, ScrollView, StyleSheet, Text } from 'react-native';
-import { View } from 'react-native-reanimated/lib/typescript/Animated';
+import { Platform, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 export default function TabTwoScreen() {
