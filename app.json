@@ -44,6 +44,11 @@
       "eas": {
         "projectId": "010d1e6f-a381-4cbf-b3b8-fc938d97fe68"
       }
+    },
+    "install": {
+      "exclude": [
+        "expo-constants"
+      ]
     }
   }
 }
