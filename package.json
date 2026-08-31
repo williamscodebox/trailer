@@ -24,7 +24,8 @@
     "expo-router": "~3.5.23",
 
 
-    "@expo/vector-icons": "^15.1.1",
+    "@expo/vector-icons": "14.0.0",
+
 
     "react-native-gesture-handler": "~2.32.0",
     "react-native-reanimated": "~3.10.1",
